@@ -1,0 +1,3 @@
+The nursesGowersPreProcessing file uses the nursery dataset provided. The program nominally looks at the dataset and implements gowers distance to conduct agglomerative clustering. Multiple types of Agglomerative linkage are used, and the silhouette scores for the overall clustering algorithm are calculated. 
+
+The hmsPreprocess works with the national20212022_PUBLIC_instchars.csv dataset (not included) from the HMS dataset. It attempts to calculate the gowers distance for the dataset, but currently is running into issues regarding space - the dataset is a large one. 
